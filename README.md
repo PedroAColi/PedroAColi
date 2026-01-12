@@ -7,14 +7,14 @@
 Hi y'all! I'm Coli, I am a 19 year old brasilian Software Engineer student, naturally from Rio de Janeiro. Loved computer science since my childhood, and now studying to become the professional that i ever dreamt to be!
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/PedroAColi?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/PedroAColi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/PedroAColi?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
