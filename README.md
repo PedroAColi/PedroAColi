@@ -4,7 +4,7 @@
 
 **`FullStack Developer/UI UX Designer`**
 
-Hi y'all! I'm Coli, I am a 19 year old brasilian Software Engineer student, naturally from Rio de Janeiro. Loved computer science since my childhood, and now studying to become the professional that i ever dreamt to be!
+Hi y'all! I'm Coli, I am a 19 year old brasilian Software Engineer student, naturally from Rio de Janeiro. Loved computer science since my childhood, and now studying to become the professional that i allways dreamt to be!
 
 <p align="left">
     <a href="https://github.com/PedroAColi?tab=repositories&sort=stargazers">
