@@ -114,6 +114,19 @@ Hi y'all! I'm Coli, I am a 19 year old brasilian Software Engineer student, natu
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&fontColor=40120F&reversal=false&fontAlign=26&section=footer">
 
+  ## 🚀 Projeto em Destaque
+
+### PDF Splitter Pro
+
+Aplicação desktop moderna desenvolvida em Python para separação inteligente de arquivos PDF.
+
+✨ Drag and Drop  
+✨ Separação por blocos personalizados  
+✨ Intervalo específico  
+✨ Interface moderna com CustomTkinter  
+
+🔗 [Ver Projeto](https://github.com/seuusuario/pdf-splitter)
+
 <!--
 **PedroAColi/PedroAColi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
