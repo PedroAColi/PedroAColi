@@ -113,7 +113,7 @@ Hi y'all! I'm Coli, I am a 19 year old brasilian Software Engineer student, natu
 
 ## 🚀 Featured Project
 
-### PDF Splitter Pro
+### PDF Splitter
 
 A modern desktop application built with Python for intelligent PDF file splitting.
 
