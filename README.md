@@ -122,7 +122,7 @@ A modern desktop application built with Python for intelligent PDF file splittin
 ✨ Specific page range selection  
 ✨ Modern UI built with CustomTkinter  
 
-🔗 [View Project](https://github.com/seuusuario/pdf-splitter)
+🔗 [View Project](https://github.com/PedroAColi/pdf-splitter)
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&fontColor=40120F&reversal=false&fontAlign=26&section=footer">
