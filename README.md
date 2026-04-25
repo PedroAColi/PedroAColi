@@ -111,7 +111,7 @@ Hi y'all! I'm Coli, I am a 19 year old brasilian Software Engineer student, natu
 <br/>
 <br/>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### PDF Splitter
 
@@ -123,6 +123,17 @@ A modern desktop application built with Python for intelligent PDF file splittin
 ✨ Modern UI built with CustomTkinter  
 
 🔗 [View Project](https://github.com/PedroAColi/pdf-splitter)
+
+### User Registration API REST 
+
+A robust web application built with Java and Spring Boot for intelligent user management and registration.
+
+✨ Complete REST API with CRUD operations
+✨ Integrated H2 in-memory database
+✨ Static frontend served directly by the backend
+✨ Secure architecture built on Zero Trust principles
+
+🔗 [View Project](https://github.com/PedroAColi/cadastro-usuario)
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&fontColor=40120F&reversal=false&fontAlign=26&section=footer">
