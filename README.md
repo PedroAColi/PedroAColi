@@ -128,10 +128,10 @@ A modern desktop application built with Python for intelligent PDF file splittin
 
 A robust web application built with Java and Spring Boot for intelligent user management and registration.
 
-✨ Complete REST API with CRUD operations
-✨ Integrated H2 in-memory database
-✨ Static frontend served directly by the backend
-✨ Secure architecture built on Zero Trust principles
+✨ Complete REST API with CRUD operations  
+✨ Integrated H2 in-memory database  
+✨ Static frontend served directly by the backend  
+✨ Secure architecture built on Zero Trust principles  
 
 🔗 [View Project](https://github.com/PedroAColi/cadastro-usuario)
 
